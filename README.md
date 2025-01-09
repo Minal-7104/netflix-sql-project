@@ -1,1 +1,3 @@
-# netflix-sql-project
+
+# NETFLIX MOVIES AND TVSHOW ANALYSIS BY USING SQL
+
